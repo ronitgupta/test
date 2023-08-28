@@ -1,2 +1,2 @@
-working is 
-fine!
+working is !
+fine
