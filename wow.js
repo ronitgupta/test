@@ -1,2 +1,1 @@
-Hi wow
-This is main
+console.log(123);
